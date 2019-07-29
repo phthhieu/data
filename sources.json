@@ -937,10 +937,15 @@
       "platforms": ["browser"],
       "keywords": ["ui", "platform api"]
     },
-    "bstr": {
-      "category": "tool",
-      "platforms": ["node"],
-      "keywords": ["boilerplate"]
+    "bs-youtube": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["ui", "platform api"]
+    },
+    "bs-react-waypoint": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
     },
     "bucklescript-phx": {
       "category": "binding",
